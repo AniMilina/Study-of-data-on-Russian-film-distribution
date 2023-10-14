@@ -1,4 +1,4 @@
-# Study-of-data-on-Russian-film-distribution
+# Research of Russian film distribution data
 
 # Описание проекта
 Заказчик этого исследования — Министерство культуры Российской Федерации.
